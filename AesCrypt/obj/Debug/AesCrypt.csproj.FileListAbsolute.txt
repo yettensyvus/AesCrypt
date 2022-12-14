@@ -1,0 +1,8 @@
+C:\Users\Aleksandr Straton\source\repos\AesCrypt\AesCrypt\bin\Debug\AesCrypt.exe.config
+C:\Users\Aleksandr Straton\source\repos\AesCrypt\AesCrypt\bin\Debug\AesCrypt.exe
+C:\Users\Aleksandr Straton\source\repos\AesCrypt\AesCrypt\bin\Debug\AesCrypt.pdb
+C:\Users\Aleksandr Straton\source\repos\AesCrypt\AesCrypt\obj\Debug\AesCrypt.csproj.AssemblyReference.cache
+C:\Users\Aleksandr Straton\source\repos\AesCrypt\AesCrypt\obj\Debug\AesCrypt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aleksandr Straton\source\repos\AesCrypt\AesCrypt\obj\Debug\AesCrypt.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr Straton\source\repos\AesCrypt\AesCrypt\obj\Debug\AesCrypt.exe
+C:\Users\Aleksandr Straton\source\repos\AesCrypt\AesCrypt\obj\Debug\AesCrypt.pdb

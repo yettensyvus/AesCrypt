@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AesCrypt", "AesCrypt\AesCrypt.csproj", "{B69DDFC7-DDAD-4CB8-A66A-98320EC58AE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B69DDFC7-DDAD-4CB8-A66A-98320EC58AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69DDFC7-DDAD-4CB8-A66A-98320EC58AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69DDFC7-DDAD-4CB8-A66A-98320EC58AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69DDFC7-DDAD-4CB8-A66A-98320EC58AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E306E91E-E4C4-496D-9AC2-636E0193A833}
+	EndGlobalSection
+EndGlobal
